@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinsa04&label=Profile%20views&color=0e75b6&style=flat" alt="martinsa04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinsa04" alt="martinsa04" /></a> </p>
-
 - 🔭 I’m currently working on [Linux Tutorial Nabla](https://github.com/MartinSA04/linux_tutorial_nabla)
 
 - 🌱 I’m currently learning **Vue, Supabase**
