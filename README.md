@@ -5,10 +5,6 @@
 
 - 💼 Working as a Senior Software Developer @ [Aker Solutions AS](https://www.akersolutions.com/), making the world`s first fully automated adaptive welding production line
 
-- 🔭 I’m currently working on [Linux Tutorial Nabla](https://github.com/MartinSA04/linux_tutorial_nabla)
-
-- 🌱 I’m currently learning **Vue, Supabase**
-
 - 📫 How to reach me **martin.s.aspas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
