@@ -14,10 +14,16 @@ I'm currently pursuing a degree in **Applied Physics and Mathematics** at **NTNU
 - **Industrial Robotics** — Contributing to projects in robotic welding and 3D printing
 - **Teaching** — Holding introductory robotics courses for apprentices at Aker Solutions
 
-## Latest project: [Interactive Black Hole Renderer](https://github.com/MartinSA04/Black-Hole-Simulator)
+## Latest projects
+
+### [Cipherbound](https://cipherbound.com)
+
+A Pokémon-like game built entirely from scratch in C++. [Cipherbound](https://cipherbound.com) is my latest project and a showcase of game systems, world-building, and full-stack product development.
+
+### [Interactive Black Hole Renderer](https://github.com/MartinSA04/Black-Hole-Simulator)
 
 <p align="center">
-  <img src="render.png" alt="Black hole render" width="600"/>
+ <img src="render.png" alt="Black hole render" width="600"/>
 </p>
 
 A physically-based black hole renderer written wholly from scratch in C++. Simulates gravitational lensing by tracing light rays through curved spacetime around a Schwarzschild black hole.
@@ -38,6 +44,7 @@ A physically-based black hole renderer written wholly from scratch in C++. Simul
 
 ## Connect
 
+[![Website](https://img.shields.io/badge/-Website-000000?logo=vercel&logoColor=white&style=flat-square)](https://martinsundal.no)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/martinsa04)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:martin.s.aspas@gmail.com)
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=flat-square)](https://www.buymeacoffee.com/martinsa04)
