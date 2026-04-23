@@ -4,21 +4,25 @@
 
 ## About Me
 
-Senior Engineer at [Aker Solutions](https://www.akersolutions.com/) in Verdal, Norway — promoted at 19 after joining the Technology Department as a developer at 17.
+Somehow ended up as a Senior Engineer at [Aker Solutions](https://www.akersolutions.com/) in Verdal, Norway. I started there at 17, got promoted at 19, and I'm still not entirely sure who signed off on that.
 
-I'm currently pursuing a degree in **Applied Physics and Mathematics** at **NTNU**, combining academic studies with hands-on engineering in a highly innovative industrial environment.
+By day I'm studying **Applied Physics and Mathematics** at **NTNU**, and by slightly later in the day I'm writing code that occasionally does what I intended.
 
 ## What I Work On
 
-- **Automated Welding Planning** — Lead developer on the world's first fully automated welding planner for the new Verdal Production Line
-- **Industrial Robotics** — Contributing to projects in robotic welding and 3D printing
-- **Teaching** — Holding introductory robotics courses for apprentices at Aker Solutions
+- **Automated Welding Planning** — Lead developer on a fully automated welding planner for the new Verdal Production Line. Allegedly the world's first, which mostly means there's no one to compare homework with.
+- **Industrial Robotics** — Teaching big metal arms to weld and 3D print without making modern art out of the workshop.
+- **Teaching** — Running introductory robotics courses for apprentices at Aker Solutions, where I learn at least as much as they do.
 
 ## Latest projects
 
 ### [Cipherbound](https://cipherbound.com)
 
-A Pokémon-like game built entirely from scratch in C++. [Cipherbound](https://cipherbound.com) is my latest project and a showcase of game systems, world-building, and full-stack product development.
+<p align="center">
+ <img src="cipherbound.png" alt="Cipherbound" width="600"/>
+</p>
+
+A Pokémon-ish game built from scratch in C++ — because apparently reinventing a genre from zero sounded like a reasonable weekend plan. Repo lives at [github.com/MartinSA04/CipherBound](https://github.com/MartinSA04/CipherBound), and it somehow walked away with **Best Project in TDT4102 at NTNU**, which I'm still mildly suspicious about.
 
 ### [Interactive Black Hole Renderer](https://github.com/MartinSA04/Black-Hole-Simulator)
 
