@@ -4,15 +4,15 @@
 
 ## About Me
 
-Somehow ended up as a Senior Engineer at [Aker Solutions](https://www.akersolutions.com/) in Verdal, Norway. I started there at 17, got promoted at 19, and I'm still not entirely sure who signed off on that.
+Senior Engineer at [Aker Solutions](https://www.akersolutions.com/) in Verdal, Norway. I joined the Technology Department as a developer at 17 and was promoted at 19.
 
-By day I'm studying **Applied Physics and Mathematics** at **NTNU**, and by slightly later in the day I'm writing code that occasionally does what I intended.
+By day I'm studying **Applied Physics and Mathematics** at **NTNU**, and by slightly later in the day I'm writing the code that keeps it all running.
 
 ## What I Work On
 
 - **Automated Welding Planning** — Lead developer on a fully automated welding planner for the new Verdal Production Line. Allegedly the world's first, which mostly means there's no one to compare homework with.
 - **Industrial Robotics** — Teaching big metal arms to weld and 3D print without making modern art out of the workshop.
-- **Teaching** — Running introductory robotics courses for apprentices at Aker Solutions, where I learn at least as much as they do.
+- **Side projects** — Making smaller projects that let me explore graphics, gameplay, tools, and ideas I find interesting.
 
 ## Latest projects
 
@@ -22,7 +22,15 @@ By day I'm studying **Applied Physics and Mathematics** at **NTNU**, and by slig
  <img src="cipherbound.png" alt="Cipherbound" width="600"/>
 </p>
 
-A Pokémon-ish game built from scratch in C++ — because apparently reinventing a genre from zero sounded like a reasonable weekend plan. Repo lives at [github.com/MartinSA04/CipherBound](https://github.com/MartinSA04/CipherBound), and it somehow walked away with **Best Project in TDT4102 at NTNU**, which I'm still mildly suspicious about.
+A Pokémon-ish game built from scratch in C++ — because reinventing a genre from zero sounded like a reasonable weekend plan. Repo lives at [github.com/MartinSA04/CipherBound](https://github.com/MartinSA04/CipherBound). Won **Best Project in TDT4102 at NTNU**.
+
+### [Game of Life Text](https://github.com/MartinSA04/GameOfLifeText)
+
+<p align="center">
+ <img src="GOL.GIF" alt="Game of Life Text" width="600"/>
+</p>
+
+Generates starting states for Conway's Game of Life that converge to whatever text you feed it. So you get to watch a chaotic primordial soup slowly arrange itself into your grocery list, which is exactly the kind of thing I find unreasonably satisfying.
 
 ### [Interactive Black Hole Renderer](https://github.com/MartinSA04/Black-Hole-Simulator)
 
