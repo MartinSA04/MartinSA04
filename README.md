@@ -20,7 +20,7 @@ Alongside that, I study **Applied Physics and Mathematics** at **NTNU**. It soun
 
 ### [Study Companion](https://github.com/MartinSA04/StudyCompanion)
 
-An Astro framework and component library for interactive course study guides. Each course is authored as plain data — a `course.yaml` and a handful of MDX sections — that pins a version of the framework, which owns all the design, page wiring, and twenty-odd widgets. Static output, server-rendered KaTeX, and almost no client-side JavaScript. It powers a growing set of course sites across physics, quantum mechanics, algorithms, and classical mechanics.
+An Astro framework and component library for interactive course study guides. Each course is authored as plain data — a `course.yaml` and a handful of MDX sections — that pins a version of the framework, which owns all the design, page wiring, and twenty-odd widgets. Static output, server-rendered KaTeX, and almost no client-side JavaScript. It powers a growing set of course sites across physics, quantum mechanics, algorithms, and classical mechanics — browse them all at [kurs.martinsundal.no](https://kurs.martinsundal.no).
 
 ### [Cipherbound](https://cipherbound.com)
 
