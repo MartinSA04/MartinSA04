@@ -1,26 +1,28 @@
 # Hi, I'm Martin Sundal Aspås 👋
 
-> Mostly I write software for things that move or compute, and sometimes both.
+> I write software for things that move or compute.
 
 ![Profile views](https://komarev.com/ghpvc/?username=martinsa04&label=Profile%20views&color=0e75b6&style=flat)
 
 ## About Me
 
-I'm a software engineer in Trondheim, Norway. At [Aker Solutions](https://www.akersolutions.com/) I work on industrial software and automation — mostly trying to make complicated systems a little less complicated, with mixed but occasionally promising results.
+I'm a software engineer in Trondheim, Norway. At [Aker Solutions](https://www.akersolutions.com/) I work on industrial software and automation, building tools that make complex systems easier to run.
 
-Alongside that, I study **Applied Physics and Mathematics** at **NTNU**. It sounds impressive until you see me at 2am arguing with a partial derivative.
+Alongside that, I study **Applied Physics and Mathematics** at **NTNU**.
 
 ## What I Work On
 
-- **Automation & engineering tools** — Lead developer on a fully automated welding planner for the new Verdal Production Line at Aker Solutions. Allegedly the world's first, which mostly means there's no one to compare homework with.
-- **Software for the physical world** — Robotics and simulation code, where geometry and motion don't care how clean the code is. Mostly teaching big metal arms to weld and 3D print without making modern art out of the workshop.
-- **Side projects** — Smaller things I build to learn something or scratch an itch: usually games, graphics experiments, or some oddly specific tool.
+- **Automation & engineering tools.** Lead developer on a fully automated welding planner for the new Verdal Production Line at Aker Solutions, one of the first of its kind.
+- **Software for the physical world.** Robotics and simulation code for welding and 3D printing, where geometry and motion drive the design.
+- **Data foundation & machine learning.** Building the data infrastructure that industrial systems rely on and applying machine learning to turn it into useful predictions.
+- **System architecture.** Designing how services, data, and automation fit together so larger systems stay reliable and maintainable.
+- **Side projects.** Smaller things I build to learn or to solve a specific problem: games, graphics experiments, and one-off tools.
 
 ## Latest projects
 
 ### [Study Companion](https://github.com/MartinSA04/StudyCompanion)
 
-An Astro framework and component library for interactive course study guides. Each course is authored as plain data — a `course.yaml` and a handful of MDX sections — that pins a version of the framework, which owns all the design, page wiring, and twenty-odd widgets. Static output, server-rendered KaTeX, and almost no client-side JavaScript. It powers a growing set of course sites across physics, quantum mechanics, algorithms, and classical mechanics — browse them all at [kurs.martinsundal.no](https://kurs.martinsundal.no).
+An Astro framework and component library for interactive course study guides. Each course is authored as plain data (a `course.yaml` and a handful of MDX sections) that pins a version of the framework, which owns the design, page wiring, and roughly twenty widgets. It produces static output with server-rendered KaTeX and almost no client-side JavaScript. It powers course sites across physics, quantum mechanics, algorithms, and classical mechanics. Browse them at [kurs.martinsundal.no](https://kurs.martinsundal.no).
 
 ### [Cipherbound](https://cipherbound.com)
 
@@ -28,7 +30,7 @@ An Astro framework and component library for interactive course study guides. Ea
  <img src="cipherbound.png" alt="Cipherbound" width="600"/>
 </p>
 
-A Pokémon-ish game built from scratch in C++ — because reinventing a genre from zero sounded like a reasonable weekend plan. Repo lives at [github.com/MartinSA04/CipherBound](https://github.com/MartinSA04/CipherBound). Won **Best Project in TDT4102 at NTNU**.
+A Pokémon-style game built from scratch in C++. Repo at [github.com/MartinSA04/CipherBound](https://github.com/MartinSA04/CipherBound). Won **Best Project in TDT4102 at NTNU**.
 
 ### [Game of Life Text](https://github.com/MartinSA04/GameOfLifeText)
 
@@ -36,7 +38,7 @@ A Pokémon-ish game built from scratch in C++ — because reinventing a genre fr
  <img src="GOL.GIF" alt="Game of Life Text" width="600"/>
 </p>
 
-Generates starting states for Conway's Game of Life that converge to whatever text you feed it. So you get to watch a chaotic primordial soup slowly arrange itself into your grocery list, which is exactly the kind of thing I find unreasonably satisfying.
+Generates starting states for Conway's Game of Life that converge to whatever text you feed it, so a random-looking grid gradually resolves into readable words.
 
 ### [Interactive Black Hole Renderer](https://github.com/MartinSA04/Black-Hole-Simulator)
 
@@ -44,7 +46,7 @@ Generates starting states for Conway's Game of Life that converge to whatever te
  <img src="render.png" alt="Black hole render" width="600"/>
 </p>
 
-A physically-based black hole renderer written wholly from scratch in C++. Simulates gravitational lensing by tracing light rays through curved spacetime around a Schwarzschild black hole.
+A physically based black hole renderer written from scratch in C++. It simulates gravitational lensing by tracing light rays through the curved spacetime around a Schwarzschild black hole.
 
 ## Languages & Tools
 
