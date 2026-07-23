@@ -20,6 +20,12 @@ Alongside that, I study **Applied Physics and Mathematics** at **NTNU**.
 
 ## Latest projects
 
+### [NTNU Course Data API & MCP Server](https://github.com/MartinSA04/ntnu-api)
+
+A TypeScript client that puts NTNU's scattered public course data behind one typed interface: catalog search, teaching schedules, weekly timetables, exam logistics, and historical grade statistics. Published on npm as [`ntnu-api`](https://www.npmjs.com/package/ntnu-api) with zero runtime dependencies, so it runs in Node, browsers, and Cloudflare Workers alike.
+
+On top of it sits [`ntnu-mcp`](https://github.com/MartinSA04/ntnu-mcp), a remote MCP server running as a Cloudflare Worker that exposes the data as ten read-only tools for LLM assistants. Add `https://ntnu-mcp.martinsundal.no/mcp` as a custom connector in Claude or ChatGPT and it can search courses, compare them, and catch timetable clashes before you register.
+
 ### [Study Companion](https://github.com/MartinSA04/StudyCompanion)
 
 An Astro framework and component library for interactive course study guides. Each course is authored as plain data (a `course.yaml` and a handful of MDX sections) that pins a version of the framework, which owns the design, page wiring, and roughly twenty widgets. It produces static output with server-rendered KaTeX and almost no client-side JavaScript. It powers course sites across physics, quantum mechanics, algorithms, and classical mechanics. Browse them at [kurs.martinsundal.no](https://kurs.martinsundal.no).
