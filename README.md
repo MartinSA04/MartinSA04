@@ -41,7 +41,7 @@ A Pokémon-style game built from scratch in C++. Repo at [github.com/MartinSA04/
 ### [Game of Life Text](https://github.com/MartinSA04/GameOfLifeText)
 
 <p align="center">
- <img src="GOL.GIF" alt="Game of Life Text" width="600"/>
+ <img src="GOL.webp" alt="Game of Life Text" width="600"/>
 </p>
 
 Generates starting states for Conway's Game of Life that converge to whatever text you feed it, so a random-looking grid gradually resolves into readable words.
