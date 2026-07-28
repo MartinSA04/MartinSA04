@@ -44,7 +44,7 @@ A Pokémon-style game built from scratch in C++. Repo at [github.com/MartinSA04/
  <img src="GOL.webp" alt="Game of Life Text" width="600"/>
 </p>
 
-Generates starting states for Conway's Game of Life that converge to whatever text you feed it, so a random-looking grid gradually resolves into readable words.
+Generates starting states for Conway's Game of Life that converge to whatever text you feed it, so a random-looking grid gradually resolves into readable words. Type a word and watch it happen at [langton.martinsundal.no](https://langton.martinsundal.no/).
 
 ### [Interactive Black Hole Renderer](https://github.com/MartinSA04/Black-Hole-Simulator)
 
