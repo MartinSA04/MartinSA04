@@ -20,11 +20,13 @@ Alongside that, I study **Applied Physics and Mathematics** at **NTNU**.
 
 ## Latest projects
 
-### [NTNU Course Data API & MCP Server](https://github.com/MartinSA04/ntnu-api)
+### [NTNU Course Data API, MCP Server & Timetable](https://github.com/MartinSA04/ntnu-api)
 
 A TypeScript client that puts NTNU's scattered public course data behind one typed interface: catalog search, teaching schedules, weekly timetables, exam logistics, and historical grade statistics. Published on npm as [`ntnu-api`](https://www.npmjs.com/package/ntnu-api) with zero runtime dependencies, so it runs in Node, browsers, and Cloudflare Workers alike.
 
-On top of it sits [`ntnu-mcp`](https://github.com/MartinSA04/ntnu-mcp), a remote MCP server running as a Cloudflare Worker that exposes the data as ten read-only tools for LLM assistants. Add `https://ntnu-mcp.martinsundal.no/mcp` as a custom connector in Claude or ChatGPT and it can search courses, compare them, and catch timetable clashes before you register.
+On top of it sits [`ntnu-mcp`](https://github.com/MartinSA04/ntnu-mcp), a remote MCP server running as a Cloudflare Worker that exposes the data as twelve read-only tools for LLM assistants. Add `https://ntnu-mcp.martinsundal.no/mcp` as a custom connector in Claude or ChatGPT and it can search courses, compare them, and catch timetable clashes before you register.
+
+The same client backs [Semesterplan](https://ntnu.martinsundal.no), an unofficial NTNU timetable in Norwegian: pick a study programme and a cohort and the week comes back, rooms and exam dates included. It ships as an Astro build and a Cloudflare Worker in one unit, the Worker serving the site and caching `/api/*` in front of NTNU. There is no account, and nothing about a student leaves the browser it was typed into. Repo at [`ntnu-page`](https://github.com/MartinSA04/ntnu-page).
 
 ### [Study Companion](https://github.com/MartinSA04/StudyCompanion)
 
